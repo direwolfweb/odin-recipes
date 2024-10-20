@@ -1,3 +1,3 @@
 # odin-recipes
 
-something here
+Website with my favorite recipes.
